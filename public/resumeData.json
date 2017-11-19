@@ -1,0 +1,135 @@
+{
+    "main": {
+      "name":"Aleksi Väisänen",
+      "occupation":"Computer Science and Engineering student in the University of Turku.",
+      "description":"I like to design and program websites and web applications of all types. I also like to experiment with various programming languages.",
+      "image":"profilepic.jpg",
+      "bio":[
+        {
+          "line":"My name is Aleksi Väisänen and I'm currently a Computer Science and Engineering student in the University of Turku. I began my studies in fall 2017, right after my conscription. Before that I studied in Kerttuli upper secondary school. There I was in the ICT oriented line of study, where I was able to learn programming besides my normal studies and also do some university courses in programming."
+        },
+        {
+          "line":"I am a sporty person and I enjoy especially doing long runs and playing disc golf. I'm currently training for the Paavo Nurmi half marathon 2018 and hopefully I'll be able to participate in other running events also the next summer."
+        }
+      ],
+        "email": "aleksi.vaisanen@elisanet.fi",
+      "address":{
+        "city":"Turku"
+      },
+      "website": "https://aleksivaisanen.github.io",
+      "resumedownload":"",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/aleksi.vaisanen.140",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/aleksivaisanen/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"https://www.instagram.com/_aleksijohannes/",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/aleksivaisanen",
+          "className":"fa fa-github"
+        }
+      ]
+    },
+    "resume":{
+      "education":[
+        {
+          "school":"The University of Turku",
+          "degree":"Computer Science and Engineering",
+          "graduated":"August 2017 - Present",
+          "description":"My studies consists of natural sciences and computer science and engineering. Bachelor's degree consists of 180 academic credits and master's degree consists of 120 academic credits."
+        },
+        {
+          "school":"The Open University of Turku",
+          "degree":"13 academic credits worth of programming courses",
+          "graduated":"August 2014 - February 2015",
+          "description":"I took three programming courses in the Open University of Turku while studying in Kerttulin lukio. I was able to include these studies to my current studies in the University of Turku."
+        },
+        {
+          "school":"Kerttulin lukio, ICT-linja",
+          "degree":"Finnish Matriculation Examination",
+          "graduated":"August 2013 - June 2016",
+          "description":"In Kerttulin lukio, I was able to replace many otherwise compulsory courses with IT courses. I studied a lot of programming besides my normal courses thanks to the ICT oriented line of study."
+        }
+      ],
+      "work":[
+        {
+          "company":"KirEe Oy",
+          "title":"",
+          "years":"June 2012 - Present",
+          "description":"I have a strong background in the family business. I've been a part of KirEe Oy more or less since 2012. Some of the biggest projects I've been a part of are Mein Schiff 5 and Mein Schiff 6 Himmel und Meer suite installations. In 2016 I made a new homepage for KirEe Oy and in 2017 I was a part of the workgroup who took the performance reward system in use. I created the quality manual as well as Excel-based working hours monitoring system in 2017. Mostly I'm responsible for the firm's IT-side of things, but if needed I can also be a part of the production line."
+        }
+      ],
+      "skills":[
+        {
+          "name":"Java",
+          "level":"80%"
+        },
+        {
+          "name":"HTML5, CSS3",
+          "level":"80%"
+        },
+        {
+          "name":"Javascript",
+          "level":"65%"
+        },
+        {
+          "name":"ReactJS",
+          "level":"60%"
+        },
+        {
+          "name":"jQuery",
+          "level":"60%"
+        },
+        {
+          "name":"Android",
+          "level":"20%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Website for KirEe Oy",
+          "description":"Full design and implementation of the KirEe Oy website",
+          "category":"Website",
+          "tags":"Branding, Web Design",
+          "image":"kireeoy.png",
+          "url":"http://www.kiree.fi",
+          "modal":"#modal-01"
+        },
+        {
+          "title":"Coming soon",
+          "description":"",
+          "category":"",
+          "tags":"",
+          "image":"empty.jpg",
+          "url":"",
+          "modal":""
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "user":"John Doe"
+        },
+        {
+          "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+          "user":"Steve Smith"
+        }
+      ]
+    }
+  }
+  

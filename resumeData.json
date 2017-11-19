@@ -1,8 +1,5 @@
 {
     "main": {
-      "name":"Aleksi Väisänen",
-      "occupation":"Computer Science and Engineering student in the University of Turku.",
-      "description":"I like to design and program websites and web applications of all types. I also like to experiment with various programming languages.",
       "image":"profilepic.jpg",
       "bio":[
         {

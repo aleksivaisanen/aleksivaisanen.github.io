@@ -3,10 +3,10 @@
       "image":"profilepic.jpg",
       "bio":[
         {
-          "line":"My name is Aleksi Väisänen and I'm currently a Computer Science and Engineering student in the University of Turku. I began my studies in fall 2017, right after my conscription. Before that I studied in Kerttuli upper secondary school. There I was in the ICT oriented line of study, where I was able to learn programming besides my normal studies and also do some university courses in programming."
+          "line":"My name is Aleksi Väisänen and I'm currently a Computer Science and Engineering student at the University of Turku. I began my studies in fall 2017, right after my conscription. Before that I studied in Kerttuli upper secondary school. I was in the ICT oriented line of study, where I was able to learn programming besides my normal studies and also do some university courses in programming."
         },
         {
-          "line":"I am a sporty person and I enjoy especially doing long runs and playing disc golf. I'm currently training for the Paavo Nurmi half marathon 2018 and hopefully I'll be able to participate in other running events also the next summer."
+          "line":"I am a sporty person and I especially enjoy long runs and playing disc golf. I'm currently training for the Paavo Nurmi half marathon 2018 and hopefully I'll also be able to participate in other running events the next summer."
         }
       ],
         "email": "aleksi.vaisanen@elisanet.fi",
@@ -44,7 +44,7 @@
           "school":"The University of Turku",
           "degree":"Computer Science and Engineering",
           "graduated":"August 2017 - Present",
-          "description":"My studies consists of natural sciences and computer science and engineering. Bachelor's degree consists of 180 academic credits and master's degree consists of 120 academic credits."
+          "description":"My studies consists of natural sciences, computer science and engineering. The bachelor's degree consists of 180 academic credits and the master's degree consists of 120 academic credits."
         },
         {
           "school":"The Open University of Turku",
@@ -64,7 +64,7 @@
           "company":"KirEe Oy",
           "title":"",
           "years":"June 2012 - Present",
-          "description":"I have a strong background in the family business. I've been a part of KirEe Oy more or less since 2012. Some of the biggest projects I've been a part of are Mein Schiff 5 and Mein Schiff 6 Himmel und Meer suite installations. In 2016 I made a new homepage for KirEe Oy and in 2017 I was a part of the workgroup who took the performance reward system in use. I created the quality manual as well as Excel-based working hours monitoring system in 2017. Mostly I'm responsible for the firm's IT-side of things, but if needed I can also be a part of the production line."
+          "description":"I have a strong background in the family business. I've been a part of KirEe Oy more or less since 2012. Some of the biggest projects I've been a part of are Mein Schiff 5 and Mein Schiff 6 Himmel und Meer suite installations. In 2016 I made a new homepage for KirEe Oy and in 2017 I was a part of the workgroup that put the performance reward system to use. I created the quality manual as well as Excel-based working hours monitoring system in 2017. Mostly I'm responsible for the firm's IT-side of things, but if needed I can also be a part of the production line."
         }
       ],
       "skills":[

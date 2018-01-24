@@ -10,6 +10,7 @@
         }
       ],
         "email": "aleksi.vaisanen@elisanet.fi",
+        
       "address":{
         "city":"Turku"
       },
@@ -17,19 +18,9 @@
       "resumedownload":"",
       "social":[
         {
-          "name":"facebook",
-          "url":"https://www.facebook.com/aleksi.vaisanen.140",
-          "className":"fa fa-facebook"
-        },
-        {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/aleksivaisanen/",
           "className":"fa fa-linkedin"
-        },
-        {
-          "name":"instagram",
-          "url":"https://www.instagram.com/_aleksijohannes/",
-          "className":"fa fa-instagram"
         },
         {
           "name":"github",
@@ -81,13 +72,14 @@
           "level":"65%"
         },
         {
-          "name":"ReactJS",
-          "level":"60%"
+          "name":"jQuery",
+          "level":"55%"
         },
         {
-          "name":"jQuery",
-          "level":"60%"
+          "name":"ReactJS",
+          "level":"50%"
         },
+       
         {
           "name":"Android",
           "level":"20%"
@@ -113,18 +105,6 @@
           "image":"empty.jpg",
           "url":"",
           "modal":""
-        }
-      ]
-    },
-    "testimonials":{
-      "testimonials":[
-        {
-          "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-          "user":"John Doe"
-        },
-        {
-          "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-          "user":"Steve Smith"
         }
       ]
     }

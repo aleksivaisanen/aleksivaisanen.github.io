@@ -57,7 +57,7 @@ class Resume extends Component {
                     <h1><span>Skills</span></h1>
                 </div>
                 <div className="nine columns main-col">
-                    <p>I've been programming Java since 2013 and it's is our mostly used programming language in school today. 
+                    <p>I've been programming Java since 2013 and it's is our most used programming language in school today. 
                     I'm quite familiar with the current web technologies like HTML5, CSS3, Javascript, jQuery, ReactJS and Bootstrap. 
                     I have also used Python and PHP a long time ago, but I can't say I'm too familiar with them.
                     Also I've made one <a href="https://github.com/aleksivaisanen/ristinolla">little project</a> with Android, so I know the basics of that as well.

@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 class About extends Component {
   render() {
     if(this.props.data){
-        var name = this.props.data.name;
         var image = "images/"+this.props.data.image;
         var bio = this.props.data.bio.map(function(textline){
             return <p key={textline.line.length}>{textline.line}</p>
@@ -31,7 +30,7 @@ class About extends Component {
 
                             <h2>Contact Details</h2>
                             <p className="address">
-                                <span>{name}</span><br />
+                                <span>Aleksi Väisänen</span><br />
                                 <span>{email}</span><br />
                             </p>
                         </div>
